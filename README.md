@@ -5,7 +5,7 @@
 - [Ejercicio 1: Configuración Inicial de la Aplicación
 ](https://github.com/ValentinoPepa/D.S.EJ1-Configuracion_Inicial_de_la_Aplicacion/blob/main/README.md#dsej1-configuracion_inicial_de_la_aplicacion)
 - [Ejercicio 2: Gestor de Conexiones a Base de Datos Simple](https://github.com/ValentinoPepa/D.S.EJ2-Gestor-de-Conexiones-a-Base-de-Datos-Simple/blob/main/README.md#dsej2-gestor-de-conexiones-a-base-de-datos-simple)
-- Ejercicio 3: Registro de Eventos (Logger) Básico
+- [Ejercicio 3: Registro de Eventos (Logger) Básico](https://github.com/ValentinoPepa/D.S.EJ3-Registro-de-Eventos-_Logger_-Basico/blob/main/README.md#dsej3-registro-de-eventos-logger-basico)
 - Ejercicio 4: Servicio de Caché en Memoria
 - Ejercicio 5: Administrador de Dispositivos de Hardware Únicos
 - Ejercicio 6: Gestor de Temas y Apariencia Visual
